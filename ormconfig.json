@@ -1,0 +1,10 @@
+{
+    "type": "mysql2",
+    "host": "localhost",
+    "port": 3306,
+    "username": "reclamosdigitale_nestjs_prueba",
+    "password": "nestjs_prueba",
+    "database": "reclamosdigitale_nestjs_prueba",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+}
